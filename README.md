@@ -4,6 +4,11 @@ Aplikasi web untuk **memantau aktivitas jaringan, mengelola aturan firewall, dan
 menampilkan simulasi ancaman keamanan jaringan**.
 Dibuat untuk UTS Keamanan Jaringan (Teknik Informatika, Kelas 3TI01).
 
+## Tautan Aplikasi (Live)
+Aplikasi dapat langsung dibuka di browser melalui GitHub Pages:
+
+**https://fiant2.github.io/cybershield/**
+
 ## Fitur Utama
 1. **Dashboard Monitoring** — total paket diperiksa, koneksi diizinkan, ancaman
    diblokir, jumlah aturan firewall aktif, grafik volume traffic waktu nyata,
